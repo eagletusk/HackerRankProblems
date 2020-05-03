@@ -1,3 +1,4 @@
 # import TreesIsThisaBinarySearchTree
-import IceCreamParlor
+# import IceCreamParlor
+import freqQueries
 
